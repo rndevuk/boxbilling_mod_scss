@@ -1,0 +1,3 @@
+[submodule "third-party/scssphp"]
+	path = third-party/scssphp
+	url = https://github.com/scssphp/scssphp.git
