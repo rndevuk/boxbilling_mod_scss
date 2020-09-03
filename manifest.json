@@ -1,0 +1,10 @@
+{
+    "id":           "scss",
+	"type":         "mod",
+    "name":         "Scss",
+    "author":       "RNDev - Ryan Nolan",
+    "author_url":   "https:\/\/rndev.co.uk",
+    "description":  "Scss Compiler and manager",
+    "project_url":  "https:\/\/github.com\/rndevuk\/boxbilling_mod_scss",
+    "version":      "1.0.0"
+}
